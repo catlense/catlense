@@ -1,6 +1,6 @@
 ### Hi, my name is Maxim! 👋
 
-I am currently working on **3** projects and will publish repositories soon, subscribe!
+I am currently working on **6** projects and will publish repositories soon, subscribe!
 
 Few words about myself:
 
