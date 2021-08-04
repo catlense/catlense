@@ -1,10 +1,10 @@
 ### Hi, my name is Maxim! 👋
 
-I am currently working on **7** projects and will publish repositories soon, subscribe!
+I am currently working on **2** projects and will publish repositories soon, subscribe!
 
 Few words about myself:
 
-- 🔭 I’m currently working on [```ingreenway.club```](https://ingreenway.club), [```catlense.ru```](https://catlense.ru), [```voronin.xyz```](https://voronin.xyz), [```rzd.voronin.xyz```](https://rzd.voronin.xyz), [```botsfactory.ru```](https://botsfactory.ru), [```remwellbelovo.ru```](https://remwellbelovo.ru), [```catlense.ru```](https://catlense.ru)
+- 🔭 I’m currently working on [```ingreenway.club```](https://ingreenway.club), [```catlense.ru```](https://catlense.ru)
 - 🌱 I’m currently learning writing backend part of projects, frontend and design
 - 👯 I’m looking to collaborate on with Telegram, VK, Facebook...
 - 🤔 I’m looking for help with Google, habr qna, stackoverflow...
